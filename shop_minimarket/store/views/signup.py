@@ -66,4 +66,3 @@ class Signup(View):
         # saving
 
         return error_message
-
